@@ -143,7 +143,6 @@ header img {
   gap: 50px;
   align-items: flex-start;
   height: 600px;
-  width: 50%;
 }
 .model .caracteristicas h3 {
   font-size: 3rem;
@@ -157,11 +156,10 @@ header img {
 .model .caracteristicas .caracteristica h4 {
   font-size: 2.5rem;
   margin-bottom: 20px;
-  width: 50%;
 }
 .model .caracteristicas .caracteristica p {
   font-size: 1.5rem;
-  width: 52%;
+  width: 40%;
   font-weight: 400;
 }
 .model .caracteristicas-image img {

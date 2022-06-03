@@ -1,0 +1,36 @@
+/*
+Colors:
+
+Text: 1A1A1A
+Green: #00B172
+White: #FFF
+
+*/
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 62.5%;
+  font-family: sans-serif;
+}
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 20px;
+}
+nav ul a {
+  text-decoration: none;
+  color: black;
+}
+nav ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  list-style: none;
+  gap: 10px;
+  font-size: 2.4rem;
+}
+header img {
+  width: 150px;
+}
